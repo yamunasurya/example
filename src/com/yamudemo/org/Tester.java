@@ -8,6 +8,7 @@ public class Tester {
 		System.out.println("yamuna");
 		System.out.println("ganga");
 		System.out.println("siddharth");
+		System.out.println("surya");
 
 
 	}
